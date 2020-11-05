@@ -1,2 +1,2 @@
 # Table_generator
-Generate the symmetry table of crystal.
+Generate the symmetry table of crystal..
